@@ -2,7 +2,7 @@
 
 # 
 # a basic implementation of the Pollard rho factorization
-# Written by Mark VandeWettering <markv@pixar.com>
+# Written by Mark VandeWettering <mvandewettering@gmail.com>
 #
 
 import sys
